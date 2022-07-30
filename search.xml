@@ -4,25 +4,6 @@
   
     
     <entry>
-      <title>我的第一篇文章</title>
-      <link href="/2022/07/14/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/"/>
-      <url>/2022/07/14/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</url>
-      
-        <content type="html"><![CDATA[        <h2 id="前言"   >          <a href="#前言" class="heading-link"><i class="fas fa-link"></i></a><a href="#前言" class="headerlink" title="前言"></a>前言</h2>      <p>大家好，今后将开始我的新学习之路，花费两天时间终于解决了基本问题，搭建好了简陋的博客，之后会将学习笔记陆续搬到网站上，公众号也会同步更新。</p>        <h2 id="如何制作博客以及将博客部署到github上"   >          <a href="#如何制作博客以及将博客部署到github上" class="heading-link"><i class="fas fa-link"></i></a><a href="#如何制作博客以及将博客部署到github上" class="headerlink" title="如何制作博客以及将博客部署到github上"></a>如何制作博客以及将博客部署到github上</h2>      <p>我基本上是在csdn上找的教程，其中一些文件的代码修改我并不太懂，回忆搭建过程也是坎坷零星，如果后面有时间，把我搭建过程中遇到的问题整理整理。以下是参考链接（全在我的主页收藏夹里了）:<br><span class="exturl"><a class="exturl__link"   href="https://blog.csdn.net/m0_46488303?type=collect" >https://blog.csdn.net/m0_46488303?type=collect</a><span class="exturl__icon"><i class="fas fa-external-link-alt"></i></span></span></p>]]></content>
-      
-      
-      <categories>
-          
-          <category> 技术 </category>
-          
-      </categories>
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>读书笔记</title>
       <link href="/2022/07/14/hello-world/"/>
       <url>/2022/07/14/hello-world/</url>
@@ -33,6 +14,25 @@
       <categories>
           
           <category> 阅读 </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>我的第一篇文章</title>
+      <link href="/2022/07/14/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/"/>
+      <url>/2022/07/14/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</url>
+      
+        <content type="html"><![CDATA[        <h2 id="前言"   >          <a href="#前言" class="heading-link"><i class="fas fa-link"></i></a><a href="#前言" class="headerlink" title="前言"></a>前言</h2>      <p>大家好，今后将开始我的新学习之路，花费两天时间终于解决了基本问题，搭建好了简陋的博客，之后会将学习笔记陆续搬到网站上，公众号也会同步更新。</p>        <h2 id="如何制作博客以及将博客部署到github上"   >          <a href="#如何制作博客以及将博客部署到github上" class="heading-link"><i class="fas fa-link"></i></a><a href="#如何制作博客以及将博客部署到github上" class="headerlink" title="如何制作博客以及将博客部署到github上"></a>如何制作博客以及将博客部署到github上</h2>      <p>我基本上是在csdn上找的教程，其中一些文件的代码修改我并不太懂，回忆搭建过程也是坎坷零星，如果后面有时间，把我搭建过程中遇到的问题整理整理。以下是参考链接（全在我的主页收藏夹里了）:<br><span class="exturl"><a class="exturl__link"   href="https://blog.csdn.net/m0_46488303?type=collect" >https://blog.csdn.net/m0_46488303?type=collect</a><span class="exturl__icon"><i class="fas fa-external-link-alt"></i></span></span></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 技术 </category>
           
       </categories>
       
