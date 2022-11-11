@@ -6,7 +6,7 @@
   <link href="http://iamsimate.github.io/atom.xml" rel="self"/>
   
   <link href="http://iamsimate.github.io/"/>
-  <updated>2022-11-11T03:23:25.666Z</updated>
+  <updated>2022-10-16T06:24:05.098Z</updated>
   <id>http://iamsimate.github.io/</id>
   
   <author>
@@ -15,26 +15,6 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title></title>
-    <link href="http://iamsimate.github.io/2022/11/11/self%20introduction%20by%20Xu%20Hui/"/>
-    <id>http://iamsimate.github.io/2022/11/11/self%20introduction%20by%20Xu%20Hui/</id>
-    <published>2022-11-11T03:14:29.590Z</published>
-    <updated>2022-11-11T03:23:25.666Z</updated>
-    
-    <content type="html"><![CDATA[<video src="C:\Users\Administrator\blog\iamsimate.github.io\source\_posts\1.mp4" position="absolute" width="100%" height="100%" controls="controls"></video>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;video src=&quot;C:\Users\Administrator\blog\iamsimate.github.io\source\_posts\1.mp4&quot; position=&quot;absolute&quot; width=&quot;100%&quot; height=&quot;100%&quot; controls=&quot;co</summary>
-      
-    
-    
-    
-    
-  </entry>
   
   <entry>
     <title>偏微分方程</title>
@@ -106,6 +86,28 @@ id=&quot;如何制作博客以及将博客部署到github上&quot;&gt;如何制�
     
     
     <category term="技术" scheme="http://iamsimate.github.io/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>泛函分析</title>
+    <link href="http://iamsimate.github.io/2022/07/14/self%20introduction%20by%20Xu%20Hui/"/>
+    <id>http://iamsimate.github.io/2022/07/14/self%20introduction%20by%20Xu%20Hui/</id>
+    <published>2022-07-14T10:04:51.000Z</published>
+    <updated>2022-11-11T03:32:14.572Z</updated>
+    
+    <content type="html"><![CDATA[<video src="C:\Users\Administrator\blog\iamsimate.github.io\source\_posts\1.mp4" position="absolute" width="100%" height="100%" controls="controls"></video>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;video src=&quot;C:\Users\Administrator\blog\iamsimate.github.io\source\_posts\1.mp4&quot; position=&quot;absolute&quot; width=&quot;100%&quot; height=&quot;100%&quot; controls=&quot;co</summary>
+      
+    
+    
+    
+    <category term="阅读" scheme="http://iamsimate.github.io/categories/%E9%98%85%E8%AF%BB/"/>
     
     
   </entry>
