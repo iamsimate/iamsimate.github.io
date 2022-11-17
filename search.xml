@@ -78,25 +78,6 @@
     </entry>
     
     
-    
-    <entry>
-      <title>heart</title>
-      <link href="/2022/07/14/heart/heart/"/>
-      <url>/2022/07/14/heart/heart/</url>
-      
-        <content type="html"><![CDATA[<script type="text/javascript" src="/js/test.js"></script>&lt;!DOCTYPE html&gt;<html><head><title></title><script src="js/jquery.min.js"></script></head><style>    * {      padding: 0;      margin: 0;    }    html,    body {      height: 100%;      padding: 0;      margin: 0;      background: #000;    }     .aa {      position: fixed;      left: 50%;      bottom: 10px;      color: #ccc;    }     .container {      width: 100%;      height: 100%;    }    canvas {      z-index: 99;      position: absolute;      width: 100%;      height: 100%;    }  </style><body><!-- 樱花 --><div id="jsi-cherry-container" class="container"><pre><code>  &lt;audio autoplay=&quot;autopaly&quot;&gt;    &lt;source src=&quot;renxi.mp3&quot; type=&quot;audio/mp3&quot; /&gt;  &lt;/audio&gt;  &lt;img class=&quot;img&quot; src=&quot;./123.png&quot; alt=&quot;&quot; /&gt;  &lt;!-- 爱心 --&gt;  &lt;canvas id=&quot;pinkboard&quot; class=&quot;container&quot;&gt; &lt;/canvas&gt;&lt;/div&gt;</code></pre></body></html>]]></content>
-      
-      
-      <categories>
-          
-          <category> 技术 </category>
-          
-      </categories>
-      
-      
-    </entry>
-    
-    
   
   
 </search>
