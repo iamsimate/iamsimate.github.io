@@ -96,31 +96,6 @@
   </entry>
   
   <entry>
-    <title>我的第一篇文章</title>
-    <link href="http://iamsimate.github.io/2022/07/14/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/"/>
-    <id>http://iamsimate.github.io/2022/07/14/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</id>
-    <published>2022-07-14T10:04:51.000Z</published>
-    <updated>2022-11-17T10:42:03.715Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="前言">前言</h2><p>大家好，今后将开始我的新学习之路，花费两天时间终于解决了基本问题，搭建好了简陋的博客，之后会将学习笔记陆续搬到网站上，公众号也会同步更新。</p><h2id="如何制作博客以及将博客部署到github上">如何制作博客以及将博客部署到github上</h2><p>我基本上是在csdn上找的教程，其中一些文件的代码修改我并不太懂，回忆搭建过程也是坎坷零星，如果后面有时间，把我搭建过程中遇到的问题整理整理。以下是参考链接（全在我的主页收藏夹里了）:https://blog.csdn.net/m0_46488303?type=collect</p><script type="text/javascript" src="//cdn.datacamp.com/dcl-react.js.gz"></script><div data-datacamp-exercise="" data-lang="python"><pre><code>&lt;code data-type=&quot;pre-exercise-code&quot;&gt;    # 这部分代码是在初始化的时候自动运行的    b = 6&lt;/code&gt;&lt;code data-type=&quot;sample-code&quot;&gt;    # 这里是示例代码    # Print out a&lt;/code&gt;&lt;code data-type=&quot;solution&quot;&gt;    # 这里是答案    a &lt;- 5    # Print out a    print(a)&lt;/code&gt;&lt;code data-type=&quot;sct&quot;&gt;    test_object(&quot;a&quot;)    test_function(&quot;print&quot;)    success_msg(&quot;Great job!&quot;)&lt;/code&gt;&lt;div data-type=&quot;hint&quot;&gt;Use the assignment operator (code&lt;-&lt;/code&gt;) to create the variable codea&lt;/code&gt;.&lt;/div&gt;</code></pre></div>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h2 id=&quot;前言&quot;&gt;前言&lt;/h2&gt;
-&lt;p&gt;大家好，今后将开始我的新学习之路，花费两天时间终于解决了基本问题，搭建好了简陋的博客，之后会将学习笔记陆续搬到网站上，公众号也会同步更新。&lt;/p&gt;
-&lt;h2
-id=&quot;如何制作博客以及将博客部署到github上&quot;&gt;如何制作博客以及将</summary>
-      
-    
-    
-    
-    <category term="技术" scheme="http://iamsimate.github.io/categories/%E6%8A%80%E6%9C%AF/"/>
-    
-    
-  </entry>
-  
-  <entry>
     <title>泛函分析</title>
     <link href="http://iamsimate.github.io/2022/07/14/%E6%B3%9B%E5%87%BD%E5%88%86%E6%9E%90/"/>
     <id>http://iamsimate.github.io/2022/07/14/%E6%B3%9B%E5%87%BD%E5%88%86%E6%9E%90/</id>
@@ -141,6 +116,31 @@ id=&quot;如何制作博客以及将博客部署到github上&quot;&gt;如何制�
     
     
     <category term="阅读" scheme="http://iamsimate.github.io/categories/%E9%98%85%E8%AF%BB/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>我的第一篇文章</title>
+    <link href="http://iamsimate.github.io/2022/07/14/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/"/>
+    <id>http://iamsimate.github.io/2022/07/14/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</id>
+    <published>2022-07-14T10:04:51.000Z</published>
+    <updated>2022-11-17T10:42:03.715Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="前言">前言</h2><p>大家好，今后将开始我的新学习之路，花费两天时间终于解决了基本问题，搭建好了简陋的博客，之后会将学习笔记陆续搬到网站上，公众号也会同步更新。</p><h2id="如何制作博客以及将博客部署到github上">如何制作博客以及将博客部署到github上</h2><p>我基本上是在csdn上找的教程，其中一些文件的代码修改我并不太懂，回忆搭建过程也是坎坷零星，如果后面有时间，把我搭建过程中遇到的问题整理整理。以下是参考链接（全在我的主页收藏夹里了）:https://blog.csdn.net/m0_46488303?type=collect</p><script type="text/javascript" src="//cdn.datacamp.com/dcl-react.js.gz"></script><div data-datacamp-exercise="" data-lang="python"><pre><code>&lt;code data-type=&quot;pre-exercise-code&quot;&gt;    # 这部分代码是在初始化的时候自动运行的    b = 6&lt;/code&gt;&lt;code data-type=&quot;sample-code&quot;&gt;    # 这里是示例代码    # Print out a&lt;/code&gt;&lt;code data-type=&quot;solution&quot;&gt;    # 这里是答案    a &lt;- 5    # Print out a    print(a)&lt;/code&gt;&lt;code data-type=&quot;sct&quot;&gt;    test_object(&quot;a&quot;)    test_function(&quot;print&quot;)    success_msg(&quot;Great job!&quot;)&lt;/code&gt;&lt;div data-type=&quot;hint&quot;&gt;Use the assignment operator (code&lt;-&lt;/code&gt;) to create the variable codea&lt;/code&gt;.&lt;/div&gt;</code></pre></div>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;前言&quot;&gt;前言&lt;/h2&gt;
+&lt;p&gt;大家好，今后将开始我的新学习之路，花费两天时间终于解决了基本问题，搭建好了简陋的博客，之后会将学习笔记陆续搬到网站上，公众号也会同步更新。&lt;/p&gt;
+&lt;h2
+id=&quot;如何制作博客以及将博客部署到github上&quot;&gt;如何制作博客以及将</summary>
+      
+    
+    
+    
+    <category term="技术" scheme="http://iamsimate.github.io/categories/%E6%8A%80%E6%9C%AF/"/>
     
     
   </entry>
